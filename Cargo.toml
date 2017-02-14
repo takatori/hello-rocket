@@ -1,0 +1,8 @@
+[package]
+name = "hello-rocket"
+version = "0.1.0"
+authors = ["takatori <takatorisatoshi@team-lab.com>"]
+
+[dependencies]
+rocket = "0.2.0"
+rocket_codegen = "0.2.0"
